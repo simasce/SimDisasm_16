@@ -3,6 +3,8 @@
 
 This project was written using YASM compiler and compiled under DOSBOX environment.
 
+It disassembles most of assembly instructions except for those used in FPU.
+
 # Compilation
 
 Compile with YASM using DOS command line.
